@@ -56,11 +56,11 @@
 #header .offcanvas-body {
   justify-content: flex-end;
 }
-#header .navbar-toggler{
+#header .navbar-toggler {
   /* border: none; */
   margin-right: 20px;
 }
-#header .text{
+#header .text {
   text-decoration: none;
 }
 #header .textBrand {
@@ -123,7 +123,7 @@
   font-size: 14px;
   line-height: 20px;
 }
-#hero .text{
+#hero .text {
   text-decoration: none;
 }
 #hero .box2 {
@@ -417,7 +417,7 @@
   font-size: 14px;
   line-height: 20px;
 }
-#section5 .text{
+#section5 .text {
   text-decoration: none;
 }
 /* /section5 css */
@@ -722,17 +722,12 @@
   }
 }
 
-
-
-
-
-
 @media (max-width: 959px) {
   #header .container {
     padding: 24px 0px;
     margin-left: 15px;
   }
-  #header .btn{
+  #header .btn {
     margin-top: 16px;
   }
   #hero {
